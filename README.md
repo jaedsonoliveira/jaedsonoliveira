@@ -12,7 +12,8 @@ Always looking for challenges and learning that motivate me to grow in my career
    <a href="https://www.linkedin.com/in/jaedson-alves/"><img src="https://cdn0.iconfinder.com/data/icons/social-flat-rounded-rects/512/linkedin-256.png" width="30px"> </a>  <a href="https://www.behance.net/jaedsonalves"><img src="https://cdn3.iconfinder.com/data/icons/social-rounded-2/72/Behance-256.png" width="31px"> </a>
    
  ## Technologies
-<img width="50px" src="https://github.com/itsalanayall/icons/blob/main/html5.png" /> <img width="50px" src="https://github.com/itsalanayall/icons/blob/main/css3.png" /> <img width="50px" src="https://github.com/itsalanayall/icons/blob/main/boot.png" /> <img width="50px" src="https://github.com/itsalanayall/icons/blob/main/javascript.png" /> <img width="50px" src="https://github.com/FortAwesome/Font-Awesome/blob/master/svgs/brands/react.svg" /><img width="50px" src="https://github.com/itsalanayall/icons/blob/main/github.png" />
+<img width="50px" src="https://github.com/itsalanayall/icons/blob/main/html5.png" /> <img width="50px" src="https://github.com/itsalanayall/icons/blob/main/css3.png" /> <img width="45px" src="https://github.com/itsalanayall/icons/blob/main/javascript.png" /> <img width="50px" src="https://github.com/FortAwesome/Font-Awesome/blob/master/svgs/brands/react.svg" />
+<img width="70px" src="https://github.com/FortAwesome/Font-Awesome/blob/master/svgs/brands/php.svg" />  <img width="50px" src="https://github.com/FortAwesome/Font-Awesome/blob/master/svgs/brands/laravel.svg" /><img width="50px" src="https://github.com/itsalanayall/icons/blob/main/github.png" />
 
 
 
